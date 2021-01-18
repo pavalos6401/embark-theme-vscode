@@ -1,11 +1,11 @@
 {
-    "name": "challenger-deep-monokai",
-    "displayName": "Challenger Deep Monokai ",
-    "description": "Monokai + Challenger Deep",
-    "publisher": "nutstick",
+    "name": "embark-theme-vscode",
+    "displayName": "Embark Theme",
+    "description": "My port of embark-theme to vscode",
+    "publisher": "pavalos6401",
     "repository": {
         "type" : "git",
-        "url" : "https://github.com/nutstick/challenger-deep-monokai"
+        "url" : "https://github.com/pavalos6401/embark-theme-vscode"
     },
     "version": "0.0.1",
     "engines": {
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Monokai Challenger Deep",
+                "label": "Embark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/monokai-challenger-deep-color-theme.json"
+                "path": "./themes/embark-theme-color-theme.json"
             }
         ]
     },
